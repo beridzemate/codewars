@@ -7,7 +7,7 @@ class SpiralizorTests {
   void sample() {
     assertArrayEquals(new int[][]{
             {1, 1, 1, 1, 1},
-            {0, 0, 0, 0, 1},
+            {0, 0, 0, 0, 1},it 
             {1, 1, 1, 0, 1},
             {1, 0, 0, 0, 1},
             {1, 1, 1, 1, 1}
